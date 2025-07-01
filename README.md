@@ -12,34 +12,70 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| <a href="https://google.com">Detection Lab</a>|
+| Investigating a company's data leak using Autopsy and FTK Imager         | <a href="https://google.com">Detection Lab</a> |
+| Performing a Vulnerability Scan on a company's website     | <a href="https://google.com">Detection Lab</a> |
+| Monitoring a network with Splunk                  | <a href="https://google.com">Detection Lab</a> |
+| Managing UAC with Active Directory | <a href="https://google.com">Detection Lab</a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🔍 Network Security
+- **Wireshark** – Network protocol analyzer/sniffer.
+- **Snort** – Network intrusion detection/prevention system (NIDS/NIPS).
+- **tcpdump** – Command-line packet analyzer.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🛡️ Endpoint Protection
+- **CrowdStrike Falcon** – Endpoint detection and response (EDR).
+- **Windows Defender** – Built-in antivirus for Windows.
+
+---
+
+## 🔐 Encryption & Data Protection
+- **VeraCrypt** – Disk encryption.
+- **GnuPG (GPG)** – Encrypts and signs data and communications.
+- **BitLocker** – Windows drive encryption.
+
+---
+
+## 🔒 Identity & Access Management (IAM)
+- **Okta** – Identity management and SSO (Single Sign-On).
+- **Duo Security** – Multi-factor authentication (MFA).
+
+---
+
+## 🧪 Penetration Testing / Offensive Tools
+- **Kali Linux** – OS loaded with hundreds of pen-testing tools.
+- **Metasploit** – Exploit development and penetration testing.
+- **Nmap** – Port scanning and network mapping.
+- **John the Ripper** – Password cracking tool.
+
+---
+
+## 📜 Log Management / SIEM
+- **ServiceNow** - TBD
+- **Splunk** – Security information and event management (SIEM).
+
+---
+
+## 🧰 Vulnerability Scanning & Management
+- **Nessus** – Vulnerability scanner.
+- **Nmap and Zenmap** - Network scanner
+
+---
+
+## 🧭 Forensics & Incident Response
+- **Autopsy** – Digital forensics platform.
+- **FTK (Forensic Toolkit)** – Forensics investigation software.
+
+---
+
+## 🚧 Firewall & Intrusion Prevention
+- **iptables / nftables** – Linux firewall tools.
+- **Suricata** – IDS/IPS engine.
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -51,6 +87,3 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
