@@ -12,11 +12,11 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
-| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| <a href="https://google.com">Detection Lab</a>|
-| Investigating a company's data leak using Autopsy and FTK Imager         | <a href="https://google.com">Detection Lab</a> |
-| Performing a Vulnerability Scan on a company's website     | <a href="https://google.com">Detection Lab</a> |
-| Monitoring a network with Splunk                  | <a href="https://google.com">Detection Lab</a> |
-| Managing UAC with Active Directory | <a href="https://google.com">Detection Lab</a> |
+| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| Page Coming soon|
+| Investigating a company's data leak using Autopsy and FTK Imager         | Page Coming Soon |
+| Performing a Vulnerability Scan on a company's website     | Page Coming Soon |
+| Monitoring a network with Splunk                  | Page Coming Soon |
+| Managing UAC with Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project</a> |
 
 ## Tools
 
