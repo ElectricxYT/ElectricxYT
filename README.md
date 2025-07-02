@@ -80,5 +80,9 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 ## Certifications
 <div>
 Google Cybersecurity Professional Certificate, August 2023
+  
+![CyberCert](https://github.com/user-attachments/assets/74de02fd-c736-454d-a927-2e6b8b02ac4f)
+
+
 </div>
 
