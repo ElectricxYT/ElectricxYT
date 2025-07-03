@@ -12,8 +12,8 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
-| Managing UAC with Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project</a> |
-| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk </a> |
+| Managing UAC with Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (Work In Progress)</a> |
+| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (Work In Progress) </a> |
 | Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| In-Progress: Publishing Soon |
 | Investigating a company's data leak using Autopsy and FTK Imager         | In-Progress: Publishing Soon |
 | Performing a Vulnerability Scan on a company's website     | In-Progress: Publishing Soon |
