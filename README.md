@@ -5,7 +5,7 @@ I am a recent highschool graduate with a profound interest in information techno
 
 ## Objective
 
-My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional.
+My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity. 
 
 ## Skills
 
