@@ -1,7 +1,7 @@
 # Hello! I'm Kaden Williams
 <a href="https://www.linkedin.com/in/kaden-williams-850217370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent highschool graduate with a profound interest in information technology and cybersecurity. 
+I am a current first-year at Dartmouth College with a profound interest in information technology and cybersecurity. I plan on majoring in Computer Science. 
 
 ## Objective
 
