@@ -84,6 +84,11 @@ Google Cybersecurity Professional Certificate, August 2023
   
 ![CyberCert](https://github.com/user-attachments/assets/74de02fd-c736-454d-a927-2e6b8b02ac4f)
 
+CompTIA Security+, August 2025
+
+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/24088246/CompTIA.Security%2B.ce.certificate.pdf)
+
+
 
 </div>
 
