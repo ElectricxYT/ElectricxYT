@@ -1,11 +1,26 @@
 # Hello! I'm Kaden Williams
 <a href="https://www.linkedin.com/in/kaden-williams-850217370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dartmouth.joinhandshake.com/profiles/kadenrw"
+   style="
+     display:inline-block;
+     padding:10px 18px;
+     background-color:#00C389;
+     color:white;
+     font-weight:700;
+     text-decoration:none;
+     border-radius:4px;
+     font-family:Arial, Helvetica, sans-serif;
+     font-size:14px;
+   ">
+  HANDSHAKE
+</a>
+
 
 I am a current first-year at Dartmouth College with a profound interest in information technology and cybersecurity. I plan on majoring in Computer Science. 
 
 ## Objective
 
-My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity. 
+My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and getting a diverse Computer Science education (Softwarre engineering, 3D modeling, Full Stack, etc). 
 
 ## Projects
 
