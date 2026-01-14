@@ -7,6 +7,12 @@ I am a current first-year at Dartmouth College with a profound interest in infor
 
 My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity. 
 
+## Projects
+
+| Project                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Password Strength Analyzer             | |
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -80,13 +86,15 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 
 ## Certifications
 <div>
+CompTIA Security+, August 2025
+
+<img width="1003" height="778" alt="CompTIASec+_IMG" src="https://github.com/user-attachments/assets/71ecd6d7-91c5-4ff9-a907-f2781ee678d5" />
+
+
 Google Cybersecurity Professional Certificate, August 2023
   
 ![CyberCert](https://github.com/user-attachments/assets/74de02fd-c736-454d-a927-2e6b8b02ac4f)
 
-CompTIA Security+, August 2025
-
-[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/24088246/CompTIA.Security%2B.ce.certificate.pdf)
 
 
 
