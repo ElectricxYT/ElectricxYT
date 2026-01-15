@@ -26,19 +26,19 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and ga
 
 | Project                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Password Strength Analyzer             | |
+| Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> |
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
-| Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (Work In Progress)</a> |
-| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (Work In Progress) </a> |
-| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| In-Progress: Publishing Soon |
-| Investigating a company's data leak using Autopsy and FTK Imager         | In-Progress: Publishing Soon |
-| Performing a Vulnerability Scan on a company's website     | In-Progress: Publishing Soon |
-| Monitoring a network with Splunk                  | In-Pogress: Publishing Soon |
+| Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> |
+| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (In Progress) </a> |
+| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| Publishing Soon |
+| Investigating a company's data leak using Autopsy and FTK Imager         | Publishing Soon |
+| Performing a Vulnerability Scan on a company's website     | Publishing Soon |
+| Monitoring a network with Splunk                  | Publishing Soon |
 
 ## Tools
 
