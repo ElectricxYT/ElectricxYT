@@ -42,6 +42,11 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 
 ## Tools
 
+## Programming Languages 
+- **Java**
+- **Python**
+- **Lua**
+
 ## 🔍 Network Security
 - **Wireshark** – Network protocol analyzer/sniffer.
 - **Snort** – Network intrusion detection/prevention system (NIDS/NIPS).
