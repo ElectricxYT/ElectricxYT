@@ -24,9 +24,10 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 
 ## Projects
 
-| Project                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> |
+| Project                                         | Associated Project         | Date         |
+|-----------------------------------------------|----------------------------|---------------|
+| Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
+| Vs Rambley Friday Night Funkin' Mod    | <a href="https://www.youtube.com/watch?v=ATODbC4zM6c&t=305s">Full Playthrough on YouTube</a> | July 2024 | 
 
 ## Skills
 
