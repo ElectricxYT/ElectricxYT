@@ -20,7 +20,7 @@ I am a current first-year at Dartmouth College with a profound interest in infor
 
 ## Objective
 
-My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and gain hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and getting a diverse Computer Science education (Softwarre engineering, 3D modeling, Full Stack, etc). 
+My goal is to gain a diverse Computer Science education and expand my skillset by learning software development/engineering, 3D Modeling, Networking, cybersecurity, and more. I am working towards eventually joining a Security Operations Center (SOC) as a Tier 1 Analyst and gaining hands-on experience as a cybersecurity professional. I'll accomplish this by starting with IT to gain the necessary fundamental knowledge/experience to succeed in cybersecurity and acquiring an internship. 
 
 ## Projects
 
