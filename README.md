@@ -36,10 +36,6 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
 | Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> |
 | Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (In Progress) </a> |
-| Pentesting a company's website using Reconaissance, Scanning, Compromise, and Remediation| Publishing Soon |
-| Investigating a company's data leak using Autopsy and FTK Imager         | Publishing Soon |
-| Performing a Vulnerability Scan on a company's website     | Publishing Soon |
-| Monitoring a network with Splunk                  | Publishing Soon |
 
 ## Tools
 
