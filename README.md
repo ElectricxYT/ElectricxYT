@@ -27,15 +27,10 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 | Project                                         | Associated Project         | Date         |
 |-----------------------------------------------|----------------------------|---------------|
 | Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
+| Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>| July 2025 |
+| Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
+| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (In Progress) </a> | July 2025 |
 | Vs Rambley Friday Night Funkin' Mod    | <a href="https://www.youtube.com/watch?v=ATODbC4zM6c&t=305s">Full Playthrough on YouTube</a> | July 2024 | 
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>|
-| Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> |
-| Learning about ServiceNow and ZenDesk and how to use them |<a href="https://github.com/ElectricxYT/ServiceNow-and-ZenDesk"> ServiceNow and ZenDesk (In Progress) </a> |
 
 ## Tools
 
