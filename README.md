@@ -26,7 +26,7 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 
 | Project                                         | Associated Project         | Date         |
 |-----------------------------------------------|----------------------------|---------------|
-| Security Automation Dashboard          |                                                                                                           | January 2026 |
+| Security Automation Dashboard          |<a href="https://github.com/ElectricxYT/Security-Automation-Dashboard/tree/main"> Picket Security Automation Dashboard</a> | January 2026 |
 | Password Strength Analyzer             |<a href="https://github.com/ElectricxYT/Password-Strength-Analyzer-Project">Password Strength Analyzer</a> | January 2026 |
 | Installing Windows and Kali Linux              | <a href="https://github.com/ElectricxYT/Home-Lab-Setup">Home Lab Setup</a>| July 2025 |
 | Learning about Active Directory | <a href="https://github.com/ElectricxYT/Active-Directory">Active Directory Project (In Progress)</a> | July 2025 |
