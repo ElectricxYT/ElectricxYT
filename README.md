@@ -16,7 +16,7 @@
 </a>
 
 
-I am a current first-year at Dartmouth College with a profound interest in information technology and cybersecurity. I plan on majoring in Computer Science. 
+I am a current first-year at Dartmouth College with a profound interest in software engineering, information technology, and cybersecurity. I plan on majoring in Computer Science. 
 
 ## Objective
 
