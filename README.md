@@ -37,7 +37,9 @@ My goal is to gain a diverse Computer Science education and expand my skillset b
 
 ## Programming Languages 
 - **Java**
+- **JavaScript**
 - **Python**
+- **HTML/CSS**
 - **Lua**
 
 ## 🔍 Network Security
